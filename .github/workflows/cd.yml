@@ -15,6 +15,6 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: run two line script
-        run: |
-        echo "sai"
-        echo "sankar"
+        run: echo sai
+        
+        
